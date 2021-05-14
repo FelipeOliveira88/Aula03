@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OperadorE {
+public class OperadorE2ComNumero {
 
 	public static void main(String[] args) {
 		/*Faça um programa que verifique se o usuário digitado é igual a 'administrador' e se a senha digitada é igual a '123'*/
